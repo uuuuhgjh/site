@@ -1,0 +1,49 @@
+ul li {
+            color: red;
+			font-size: 15pt;
+			
+}
+
+ol li {
+            color: blue;
+			font-size: 15pt;
+}
+
+.myClass {
+            font-style: italic;
+}
+
+ #firstParagraph {
+            background-color: #black;
+}
+ h3 {
+            color: red;
+			font-style: italic;
+			background: yellow;
+			font-size: 15pt;
+		
+}
+h1 {
+            color: black;
+			font-style: italic;
+			background: ;
+			font-size: 15pt;
+		
+}
+    table, td {
+            border: 1px solid blue;
+        }
+        table {
+            border-collapse: collapse;
+			color: red
+        }
+        td {
+            padding: 20px;
+        }
+li {
+            color: red;
+			font-size: 15pt;
+			
+}
+
+
